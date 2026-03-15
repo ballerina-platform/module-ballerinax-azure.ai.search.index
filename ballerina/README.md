@@ -1,8 +1,15 @@
 ## Overview
 
-[Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/cognitive-search), a cloud search service with built-in AI capabilities, provides the [Azure AI Search REST API](https://docs.microsoft.com/en-us/rest/api/searchservice/) to access its powerful search and indexing functionality for building rich search experiences.
+[Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/cognitive-search) is a cloud search service with built-in AI capabilities. It provides the Azure AI Search REST API to access powerful search and indexing functionality, enabling the creation of rich search experiences.
 
-The `ballarinax/azure.ai.search.index` package offers functionality to connect and interact with [Azure AI Search Index Management REST API](https://docs.microsoft.com/en-us/rest/api/searchservice/index-api) enabling seamless interaction with search indexes, documents, and search operations for building intelligent search applications.
+The Azure AI Search Index connector offers functionality to connect and interact with the Azure AI Search Index Management REST API, allowing seamless interaction with search indexes, documents, and search operations.
+
+### Key Features
+
+- Efficient management of search indexes and documents
+- Support for Azure AI Search Index Management REST API
+- Intelligent search capabilities with built-in AI
+- Seamless integration with Azure's cloud search infrastructure
 
 ## Setup guide
 
